@@ -67,7 +67,7 @@ export default {
 
                 {
                     image:
-                    'https://i.ytimg.com/an_webp/lTRiuFIWV54/mqdefault_6s.webp?du=3000&sqp=CKLjpYgG&rs=AOn4CLBSLX_BUU_5Mc7dbDnfOvqBdazZ_g',
+                    'https://i.ytimg.com/an_webp/lTRiuFIWV54/mqdefault_6s.webp?du=3000&sqp=CMCnpogG&rs=AOn4CLDa3zlXzv6rq6Ww6M35O9BSpqXsYA',
                     title:'1 A.M Study Session',
                     views: '8.66 M de suscriptores',
                     date:'22/01/2021',
